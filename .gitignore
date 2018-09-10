@@ -1,3 +1,6 @@
 db_setup.py
 .vscode
 dbconfig.py
+.idea
+*.iml
+*.pyc
